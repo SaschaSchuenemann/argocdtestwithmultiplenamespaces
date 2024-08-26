@@ -10,4 +10,4 @@ resources:
 patchesStrategicMerge:
 - deployment.yaml
 
-namespace: my_wanted_namespace
+namespace: my-wanted-namespace
