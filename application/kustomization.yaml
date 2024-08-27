@@ -7,4 +7,5 @@ commonLabels:
   app.kubernetes.io/part-of: ns-default-test
 resources: 
  - base/deployment.yaml
+ - base/deployment_two.yaml
  
